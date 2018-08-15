@@ -1,0 +1,6 @@
+framework module Pods_DSSChatFirebase {
+  umbrella header "Pods-DSSChatFirebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
